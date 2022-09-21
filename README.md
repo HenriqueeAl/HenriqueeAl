@@ -1,6 +1,8 @@
 ## 👋 OLA, Me Chamo Henrique.
 
-Oi, Me chamo Henrique Almeida de Oliveira e sou apaixonado por tecnologia.
+Oi, Me chamo Henrique Almeida de Oliveira tenho 20 anos e sou apaixonado por tecnologia.
+
+Que tal dar uma olhada no meu portfólio? [Clique Aqui!](https://portfolio.henriqueeal.vercel.app/)
 
 ## 🛠️ Skills
 
